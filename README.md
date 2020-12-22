@@ -59,8 +59,8 @@ git push --set-upstream origin your_name_branch
 
 ## Next steps
 If you have completed above steps, you have learnt basics of github. Explore and learn further:
-https://guides.github.com/activities/hello-world/
-https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
-https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/
+* https://guides.github.com/activities/hello-world/
+* https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+* https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/
 
 
