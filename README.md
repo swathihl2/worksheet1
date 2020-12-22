@@ -62,5 +62,6 @@ If you have completed above steps, you have learnt basics of github. Explore and
 * https://guides.github.com/activities/hello-world/
 * https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 * https://www.freecodecamp.org/news/the-beginners-guide-to-git-github/
+* https://www.atlassian.com/git/tutorials/advanced-overview
 
 
