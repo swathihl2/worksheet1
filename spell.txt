@@ -1,4 +1,4 @@
-cl0v3r
+clover
 position
 1nst1nct1v3
 l0wly
@@ -7,17 +7,17 @@ r0^st3d
 w0)nd
 g00d
 l1st
-f^t
+fat
 ch0p
-r3l1g10n
+religion
 3nt3r
-m^ss
+mass
 ch13f
-^tt^ck
+attack
 t1r3
 th^nk
 j3^l0)s
-c^pt10n
+caption
 d3s1r3
 j)mp
 r0m^nt1c
@@ -34,7 +34,7 @@ pr3ss
 cr3^t0r
 m33t1ng
 3d)c^t3d
-sp0ng3
+sponge
 1nfl)3nc3
 1nj)r3
 m0m3nt0)s
